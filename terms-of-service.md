@@ -1,6 +1,6 @@
 # Terms of Service
 
-Last updated: 08 January 2026
+Last updated: 04 January 2026
 
 By using this Discord bot and its MEE6-based features, you agree to the following terms.
 
