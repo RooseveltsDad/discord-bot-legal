@@ -1,5 +1,3 @@
-md
-
 # Terms of Service
 
 Last updated: 08 January 2026
